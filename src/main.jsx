@@ -13,19 +13,22 @@ import TodoList from "./pages/TodoList.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <div className="container">
-      <Navbar />
-      <hr />
-      <Jumbotron />
-      <hr />
-      <Cvmenu />
-      <hr />
-      <Myproject/>
-      <hr />
-      <Contactme />
-      <hr />
-      <TodoList />
-    </div>
-    <Footer />
+    <>
+      <div className="container">
+        <Navbar />
+        <hr />
+        <Jumbotron />
+        <hr />
+        <Cvmenu />
+        <hr />
+        <Myproject />
+        <hr />
+        <Contactme />
+        <hr />
+        <TodoList />
+        <hr />
+      </div>
+      <Footer />
+    </>
   </React.StrictMode>
 );
