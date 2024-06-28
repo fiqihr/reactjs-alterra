@@ -24,12 +24,7 @@ Cara kerja sederhana dari localStorage yang saya gunakan adalah sebagai berikut:
 Berikut merupakan preview dari website ini.
 
 
+![My Portfolio](https://github.com/fiqihr/reactjs-alterra/assets/75562356/d475f1b7-4455-4cb0-a552-8fcca6e0c917)
 
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
