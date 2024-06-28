@@ -21,10 +21,13 @@ Cara kerja sederhana dari localStorage yang saya gunakan adalah sebagai berikut:
 - Lalu menggunakan JSON.parse() untuk mengubah string JSON dari localStorage menjadi array JavaScript.
 - Jika tidak ada data tasks di localStorage, maka akan menginisialisasi tasks dengan array kosong.
 
+Beberapa fitur baru yang ditambahkan yaitu :
+- Alert("Selamat Datang") akan dipanggil saat komponen pertama kali dirender dan juga alert("Sampai Jumpa") yang akan dipanggil saat komponen dilepas, yang terjadi ketika menutup tab browser atau menavigasi pergi dari halaman yang merupakan fungsi pembersihan.
+- Dihalaman Todo List muncul jumlah tasks yang dibuat dan jumlah tasks yang dihapus.
+
 Berikut merupakan preview dari website ini.
 
-
-![My Portfolio](https://github.com/fiqihr/reactjs-alterra/assets/75562356/d475f1b7-4455-4cb0-a552-8fcca6e0c917)
+![Preview Website](https://github.com/fiqihr/reactjs-alterra/assets/75562356/76047406-4ec1-4e18-883d-71b475397b9b)
 
 
 
